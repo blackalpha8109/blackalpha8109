@@ -1,4 +1,3 @@
-Here’s your updated GitHub bio in the right format:  
 
 ---
 
