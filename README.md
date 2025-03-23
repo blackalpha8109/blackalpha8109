@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @blackalpha8109
-- 👀 I’m interested in front-end development to the maximum extent 
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on exciting projects
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm gonna tell you a secret 🤫🤫...
+Here’s your updated GitHub bio in the right format:  
 
-<!---
-blackalpha8109/blackalpha8109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👋 Hey there, I’m **Armaan Ahmed** (@blackalpha8109)  
+
+🚀 **Bridging Technology & Creativity | CSE Student @ RCOEM**  
+
+- 🎨 **Freelance Video Editor & Social Media Strategist** – Crafting compelling visuals & boosting brand presence  
+- 🌍 **Tech Enthusiast** – Exploring AI, Blockchain & Web3 innovations  
+- 📷 **Content Creator** – Collaborated with WeDreamCrafterz to empower women & support small businesses  
+- 🔥 Always learning, currently diving deeper into **JavaScript, React & Digital Marketing**  
+
+💡 Open to collaborations that blend **tech, storytelling & marketing** to create impact!  
+
+📫 Reach me: armaanahmed8109@gmail.com  
+
+⚡ Fun fact: I turn ideas into visuals that speak louder than words 🎬✨  
+
+---
+
+Let me know if you want any tweaks! 🚀
