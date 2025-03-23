@@ -13,7 +13,6 @@ Here’s your updated GitHub bio in the right format:
 
 💡 Open to collaborations that blend **tech, storytelling & marketing** to create impact!  
 
-📫 Reach me: armaanahmed8109@gmail.com  
 
 ⚡ Fun fact: I turn ideas into visuals that speak louder than words 🎬✨  
 
